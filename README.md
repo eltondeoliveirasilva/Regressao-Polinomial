@@ -55,7 +55,3 @@ Conclusão
 A não linearidade representa um desafio para modelos de machine learning baseados em regressão linear. Felizmente, com algumas transformações criativas nas variáveis, podemos contornar em grande parte esse problema e ainda assim desfrutar da simplicidade e eficiência dos modelos lineares.
 
 Técnicas como regressão polinomial, splines e transformações logarítmicas são ferramentas poderosas que devemos ter no nosso arsenal. Quando aplicadas corretamente, elas podem melhorar muito as métricas e capacidade preditiva dos modelos.
-
-Espero que este material tenha sido útil! Fique à vontade para entrar em contato em caso de dúvidas.
-
-Um abraço e bons estudos!
