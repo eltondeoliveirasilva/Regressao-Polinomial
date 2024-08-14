@@ -1,4 +1,4 @@
-# Regressao-Polinomial
+# Regressao_Polinomial
 
 A regressão polinomial funciona transformando as variáveis originais em novas variáveis que são potências dessas variáveis.
 
